@@ -1,2 +1,2 @@
-# JS-Chai-aur-Code-
+# JavaScript Tutorial 
 JavaScript tutorial from chai aur code yt channel
