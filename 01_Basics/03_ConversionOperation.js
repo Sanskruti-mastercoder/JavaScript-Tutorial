@@ -72,6 +72,7 @@ let num1, num2, num3
 num1 = num2 = num3 = 2 + 2
 
 let gameCounter = 100
-++gameCounter;
+++gameCounter; // Prefix incremental operator 
 console.log(gameCounter);
 
+// Read about prefix and postfix on MDN
