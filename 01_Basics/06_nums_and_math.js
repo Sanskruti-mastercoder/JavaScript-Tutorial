@@ -22,5 +22,10 @@ const cost = 1000000
 // console.log(Math.floor(4.3));
 
 
-console.log((Math.random()* 10) + 1) ;
-console.log(Math.random());
+console.log(Math.random()); // Gives random values between 0 and 1 
+console.log((Math.random() * 10) + 1);
+console.log((Math.floor(Math.random) * 10) + 1);
+
+const max = 20 
+const min = 10
+console.log(Math.floor(Math.random() * (max - min + 1)) + min);
